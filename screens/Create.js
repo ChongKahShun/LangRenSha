@@ -13,6 +13,7 @@ export default function Create({ navigation }) {
         placeholder="Enter Your Mobile Number"
         underlineColorAndroid="transparent"
       />
+      <Button title="TEST" />
       <Button title="Create" />
       <Button title="Back" onPress={backHandler} />
     </View>
